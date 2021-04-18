@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<idinfo>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>boundaries</themekey>
+				<themekey>economy</themekey>
+			</theme>
+			<theme>
+				<themekt>Washington State LocCodes</themekt>
+				<themekey>LocCodes</themekey>
+				<themekey>Districts</themekey>
+				<themekey>Administrative and Political Boundaries</themekey>
+				<themekey>Business and Economic</themekey>
+			</theme>
+			<place>
+				<placekt/>
+				<placekey>Washington State</placekey>
+			</place>
+		</keywords>
+		<citation>
+			<citeinfo>
+				<origin>Washington State Department of Revenue</origin>
+				<title>LocCodes (Location Codes)</title>
+				<pubinfo>
+					<publish>Washington State Department of Revenue</publish>
+					<pubplace>Olympia, Washington</pubplace>
+				</pubinfo>
+				<pubdate>2018-09-01</pubdate>
+				<onlink>http://dor.wa.gov/content/FindTaxesAndRates/stshpdownloads.aspx</onlink>
+				<onlink/>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>An intersection of Washington State counties, Incorporated cities, Regional Transportation Authority, Public Transportation Authority and Community Empowerment Zone boundaries depicting sales and use tax location code areas as polygons. Participating boundary datasets are updated quarterly as annexation and boundary change notices are received. This dataset is created as part of geoprocessing to generate quarterly updates. Dataset intended use is to determine applicable sales and use tax location code by location.
+			</abstract>
+			<purpose>This data is used to determine applicable sales and use tax location code by location.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>2018-10-01</begdate>
+					<enddate>2018-12-31</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>Publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Quarterly</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-124.492652</westbc>
+				<eastbc>-116.847099</eastbc>
+				<northbc>49.0239</northbc>
+				<southbc>45.511896</southbc>
+			</bounding>
+		</spdom>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<secinfo>
+			<secsys/>
+			<secclass/>
+			<sechandl/>
+		</secinfo>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Washington State Department of Revenue</cntorg>
+					<cntper>David Wright</cntper>
+				</cntorgp>
+				<cntpos>GIS Architect</cntpos>
+				<cntaddr>
+					<addrtype>PO BOX</addrtype>
+					<address>PO BOX 47461</address>
+					<city>Olympia</city>
+					<state>Washington</state>
+					<postal>98504-7461</postal>
+				</cntaddr>
+				<cntvoice>360-596-3650</cntvoice>
+				<cntfax>360-753-3321</cntfax>
+				<cntemail>david.wright@dor.wa.gov</cntemail>
+				<cntinst/>
+			</cntinfo>
+		</ptcontac>
+	</idinfo>
+	<eainfo>
+		<overview>
+			<eaover/>
+			<eadetcit/>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Data and services provided by this application are provided “as is” without warranty of any kind, express or implied, including, but not limited to, warranties of performance, merchantability, fitness for a particular purpose, accuracy, completeness, and currentness. DOR shall not be liable to you for any damages of any type including, but not limited to, any loss or injury caused by use or inability to use this application, loss of data or damage to media, or other consequential or incidental damages.</distliab>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Washington State Department of Revenue</cntorg>
+					<cntper>David Wright</cntper>
+				</cntorgp>
+				<cntpos>GIS Architect</cntpos>
+				<cntaddr>
+					<addrtype>PO BOX</addrtype>
+					<address>PO BOX 47461</address>
+					<city>Olympia</city>
+					<state>Washington</state>
+					<postal>98504-7461</postal>
+				</cntaddr>
+				<cntvoice>360-596-3650</cntvoice>
+				<cntfax>360-753-3321</cntfax>
+				<cntemail>david.wright@dor.wa.gov</cntemail>
+				<cntinst/>
+			</cntinfo>
+		</distrib>
+	</distinfo>
+	<metainfo>
+		<metd>2018-09-01</metd>
+		<metfrd/>
+		<metstdn>FGDC Content Standards for Digital Geospatial</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Washington State Department of Revenue</cntorg>
+					<cntper>David Wright</cntper>
+				</cntorgp>
+				<cntpos>GIS Architect</cntpos>
+				<cntaddr>
+					<addrtype>PO BOX</addrtype>
+					<address>PO BOX 47461</address>
+					<city>Olympia</city>
+					<state>Washington</state>
+					<postal>98504-7461</postal>
+				</cntaddr>
+				<cntvoice>360-596-3650</cntvoice>
+				<cntfax>360-753-3321</cntfax>
+				<cntemail>david.wright@dor.wa.gov</cntemail>
+				<cntinst/>
+			</cntinfo>
+		</metc>
+	</metainfo>
+</metadata>
+

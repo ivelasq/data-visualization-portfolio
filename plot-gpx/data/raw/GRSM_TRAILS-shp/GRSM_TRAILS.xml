@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>GRSM_TRAILS</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This is a vector polyline file showing trails at Great Smoky Mountains National Park (GRSM). The data was collected using a Trimble Pro XR GPS receiver with a Trimble Compact Dome Antenna and a Trimble Asset Surveyor hand held data logger. The trail system a Great Smoky Mountains National Park is one of the most important man-made recreational features of the Park. This dataset represents the most comprehensive inventory of both locational and attribute information about the trails systems to date and is considered on of the most important base data layers for the Park. As such GRSM staff will strive to the both spatial and attribute information stored within this dataset up to date in order to best reflect the current status of the trails system at the Park Only Trails that are shown on the official park visitor map and/or listed in the park maintenance system are contained in this dataset. Other trails, while known to the park to exist and clearly used for access to permenant features (e.g. cemeteries, overlooks), are not contained in this dataset due to the parks desire to ensure safety of visitors on park trails. These data are formated for use by park staff in the park 1:24,000-scale topographic map series, and are classified using the FCSubtype field, which classifies a trail segment based on primary use. These data are authoritative data published by the National Park Service. Search for additional authoritative park GIS and Map data within this system by performing a keyword search of Great Smoky Mountains National Park. These data can also be accessed through the National Park Service Integrated Resource Management Applications Portal using Reference Codes 2202813</abstract>
+            <purpose>Great Smoky Mountains National Park Trails</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>GRSM</themekey>
+                <themekey>NPS</themekey>
+                <themekey>Great</themekey>
+                <themekey>Smoky</themekey>
+                <themekey>Mountains</themekey>
+                <themekey>National</themekey>
+                <themekey>Park</themekey>
+                <themekey>National</themekey>
+                <themekey>Park</themekey>
+                <themekey>Service</themekey>
+                <themekey>trails</themekey>
+                <themekey>hiking</themekey>
+                <themekey>transportation</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>The National Park Service shall not be held liable for improper or incorrect use of the data described and/or contained herein. These data and related graphics (i.e. GIF or JPG format files) are not legal documents and are not intended to be used as such. The information contained in these data is dynamic and may change over time. The data are not better than the original sources from which they were derived. It is the responsibility of the data user to use the data appropriately and consistent within the limitations of geospatial data in general and these data in particular. The related graphics are intended to aid the data user in acquiring relevant data; it is not appropriate to use the related graphics as data. The National Park Service gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of these data. It is strongly recommended that these data are directly acquired from an NPS server and not indirectly through other sources which may have changed the data in some way. Although these data have been processed successfully on computer systems at the National Park Service, no warranty expressed or implied is made regarding the utility of the data on other systems for general or scientific purposes, nor shall the act of distribution constitute any such warranty. This disclaimer applies both to individual use of the data and aggregate use with other data.</useconst>
+        <datacred>Great Smoky Mountains National Park</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

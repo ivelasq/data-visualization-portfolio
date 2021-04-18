@@ -1,0 +1,155 @@
+name,type,subtype,ap,dur,ap_dur,where_to_get,notes,range,category
+Ancient Short Sword,1h,Sword,40,54,2160,Akkala Ancient Tech Lab,"requires
+15 ancient springs, 5 ancient shafts, 2 ancient cores and 1,000 rupees.",NA,Ancient
+Blizzard Rod,1h,Rod,10,32,320,Gerudo Highlands Hebra Mountains Crenel Hills Hyrule Castle,,NA,Elemental
+Bokoblin Arm,1h,Arm,5,5,25,Stal-bokoblins,,NA,Enemy
+Boko Club,1h,Club,4,12,48,Hyrule Field West Necluda,,NA,Enemy
+Boomerang,1h,Boomerang,8,18,144,West Necluda Faron Grasslands,,NA,Other
+Demon Carver,1h,Carver,40,25,1000,Yiga Footsoldiers,,NA,Enemy
+Dragonbone Boko Club,1h,Club,24,18,432,Hyrule Ridge Necluda Sea,,NA,Enemy
+Eightfold Blade,1h,Sword,15,26,390,West Necluda Lake Hylia,,NA,Other
+Feathered Edge,1h,Sword,15,27,405,Hyrule Field Tabantha Frontier,,NA,Other
+Fire Rod,1h,Rod,5,14,70,Great Highland Great Hyrule Forest,,NA,Elemental
+Flameblade,1h,Sword,24,36,864,Coliseum Ruins East Necluda,,NA,Elemental
+Forest Dweller's Sword,1h,Sword,22,27,594,Hyrule Field Great Hyrule Forest,,NA,Other
+Frostblade,1h,Sword,20,30,600,Gerudo Highlands Coliseum Ruins,,NA,Elemental
+Gerudo Scimitar,1h,Sword,16,23,368,Gerudo Highlands Gerudo Desert,,NA,Tribe
+Goddess Sword,1h,Sword,28,45,1260,amiibo,Skyward Sword Link Amiibo,NA,Other
+Guardian Sword,1h,Sword,20,17,340,Guardian Scout II,Found in some Minor Test of Strength shrines,NA,Ancient
+Guardian Sword+,1h,Sword,30,26,780,Guardian Scout III,Found in some Modest Test of Strength shrines,NA,Ancient
+Guardian Sword++,1h,Sword,40,32,1280,Guardian Scout IV,Found in some Major Test of Strength shrines,NA,Ancient
+Ice Rod,1h,Rod,5,14,70,Gerudo Highlands Eldin Canyon,,NA,Elemental
+Knight's Broadsword,1h,Sword,26,27,702,Gerudo Desert Tabantha Frontier,,NA,Hylian
+Lightning Rod,1h,Rod,5,14,70,West Necluda Hyrule Ridge,,NA,Elemental
+Lizal Boomerang,1h,Boomerang,14,17,238,Lake Hylia Lanayru  Wetlands,,NA,Enemy
+Lizal Forked Boomerang,1h,Boomerang,24,23,552,Gerudo Desert Tabantha Frontier,,NA,Enemy
+Lizal Tri-Boomerang,1h,Boomerang,36,27,972,Hebra Mountains Akkala Highlands,,NA,Enemy
+Lizalfos Arm,1h,Arm,12,8,96,Stalizalfos,,NA,Enemy
+Lynel Sword,1h,Sword,24,26,624,Lynel,,NA,Enemy
+Master Sword,1h,Sword,30,40,1200,the main sword of the game.,,NA,Other
+Master Sword (Awakened),1h,Sword,60,188,11280,Korok Forest,,NA,Other
+Meteor Rod,1h,Rod,10,32,320,Crenel Hills Hebra Mountains,,NA,Elemental
+Mighty Lynel Sword,1h,Sword,36,32,1152,Blue-Maned Lynel,,NA,Enemy
+Moonlight Scimitar,1h,Sword,25,32,800,Gerudo Highlands Gerudo Desert,,NA,Tribe
+Royal Broadsword,1h,Sword,36,36,1296,Tabantha Frontier Akkala Highlands Hyrule Castle,,NA,Royal
+Royal Guard's Sword,1h,Sword,48,14,672,Hyrule Castle,,NA,Royal
+Rusty Broadsword,1h,Sword,6,8,48,Hyrule Field Eldin Canyon Hyrule Castle,,NA,Other
+Savage Lynel Sword,1h,Sword,58,41,2378,White Maned Lynels Silver Lynels,,NA,Enemy
+Scimitar of the Seven,1h,Sword,32,60,1920,Naboris Dungeon,"Champion Weapon, repairable.",NA,Tribe
+Sea-Breeze Boomerang,1h,Boomerang,20,20,400,amiibo,Toon Link/Windwaker Link Amiibo,NA,Other
+Soldier's Broadsword,1h,Sword,14,23,322,Hyrule Field Faron Grasslands,,NA,Hylian
+Soup Ladle,1h,Club,4,5,20,Hyrule FieldTabantha Frontier,May also be found near the cooking pots in Hateno Village.,NA,Other
+Spiked Boko Club,1h,Club,12,14,168,Faron Grasslands East Necluda,,NA,Enemy
+Sword,1h,Sword,22,27,594,amiibo,8-Bit Link Amiibo,NA,Other
+Thunderblade,1h,Sword,22,36,792,West Necluda Coliseum Ruins,,NA,Elemental
+Thunderstorm Rod,1h,Rod,10,32,320,Crenel Hills Hyrule Ridge,,NA,Elemental
+Torch,1h,Club,2,8,16,Hyrule Field Great Hyrule Forest,,NA,Other
+Traveler's Sword,1h,Sword,5,20,100,Hyrule Field West Necluda,,NA,Hylian
+Tree Branch,1h,Club,2,4,8,Hyrule Field West Necluda,,NA,Other
+Vicious Sickle,1h,Sickle,16,14,224,Yiga Footsoldiers,,NA,Enemy
+Zora Sword,1h,Sword,15,27,405,Lanayru Great Spring East Necluda,,NA,Tribe
+Ancient Battle Axe,2h,Axe,30,15,450,Guardian Scout II,Found in some Minor Test of Strength shrines,NA,Ancient
+Ancient Battle Axe+,2h,Axe,45,20,900,Guardian Scout III,Found in some Modest Test of Strength shrines,NA,Ancient
+Ancient Battle Axe++,2h,Axe,60,25,1500,Guardian Scout IV,Found in some Major Test of Strength shrines,NA,Ancient
+Ancient Bladesaw,2h,Sword,55,50,2750,Akkala Ancient Tech Lab,,NA,Ancient
+Ancient Spear,2h,Spear,30,50,1500,Akkala Ancient Tech Lab,,NA,Ancient
+Biggoron's Sword,2h,Sword,50,60,3000,amiibo,Ocarina of Time Link Amiibo.,NA,Other
+Boat Oar,2h,Polearm,14,8,112,East Necluda Necluda Sea,,NA,Other
+Boko Bat,2h,Club,6,8,48,Hyrule Field West Necluda,,NA,Enemy
+Boko Spear,2h,Spear,2,12,24,Hyrule Field West Necluda,,NA,Enemy
+Boulder Breaker,2h,Sword,60,60,3600,Vah Rudania (Dungeon),"Champion Weapon, repairable.",NA,Other
+Ceremonial Trident,2h,Spear,14,40,560,Zora's Domain,,NA,Other
+Cobble Crusher,2h,Sword,15,30,450,Eldin Canyon Eldin Mountains,,NA,Other
+Double Axe,2h,Axe,18,52,936,Stables,,NA,Other
+Dragonbone Boko Bat,2h,Club,36,16,576,Hyrule Ridge Necluda Sea,,NA,Enemy
+Dragonbone Boko Spear,2h,Spear,12,20,240,Necluda Sea Hyrule Ridge,,NA,Enemy
+Dragonbone Moblin Club,2h,Club,45,24,1080,Hebra Mountains Eldin Mountains,,NA,Enemy
+Dragonbone Moblin Spear,2h,Spear,15,25,375,Hebra Mountains Eldin Mountains,,NA,Enemy
+Drillshaft,2h,Spear,14,50,700,Eldin Canyon Hebra Mountains,,NA,Other
+Edge of Duality,2h,Sword,50,35,1750,Hyrule Field West Necluda,,NA,Other
+Eightfold Longblade,2h,Sword,32,25,800,West Necluda Lanayru Great Spring,,NA,Other
+Enhanced Lizal Spear,2h,Spear,12,22,264,Tabantha Frontier Gerudo Desert,,NA,Enemy
+Farmer's Pitchfork,2h,Spear,7,12,84,East Necluda West Necluda,,NA,Other
+Farming Hoe,2h,Polearm,16,6,96,Hyrule Field West Necluda,,NA,Other
+Feathered Spear,2h,Spear,10,35,350,Hyrule Field Tabantha Frontier,,NA,Other
+Fierce Deity Sword,2h,Sword,60,35,2100,amiibo,Majora's Mask Link Amiibo,NA,Other
+Fishing Harpoon,2h,Spear,8,12,96,East Necluda Lake Hylia,,NA,Other
+Flamespear,2h,Spear,24,50,1200,Coliseum Ruins Hebra Mountains,,NA,Elemental
+Forest Dweller's Spear,2h,Spear,11,35,385,Great Hyrule Forest Hyrule Ridge,,NA,Other
+Forked Lizal Spear,2h,Spear,18,28,504,Eldin Canyon Akkala Highlands,,NA,Enemy
+Frostspear,2h,Spear,20,40,800,Coliseum Ruins Hebra Mountains,,NA,Elemental
+Gerudo Spear,2h,Spear,16,35,560,Gerudo Highlands Gerudo Desert,,NA,Tribe
+Giant Boomerang,2h,Boomerang,25,40,1000,West Necluda Hebra Mountains,,NA,Other
+Golden Claymore,2h,Sword,28,30,840,Gerudo Highlands Hyrule Ridge,,NA,Other
+Great Flameblade,2h,Sword,34,50,1700,Coliseum Ruins Eldin Canyon,,NA,Elemental
+Great Frostblade,2h,Sword,30,40,1200,Coliseum Ruins Hebra Mountains,,NA,Elemental
+Great Thunderblade,2h,Sword,32,50,1600,Coliseum Ruins Tabantha Frontier,,NA,Elemental
+Guardian Spear,2h,Spear,10,20,200,Guardian ScoutII,Found in some Minor Test of Strength shrines,NA,Ancient
+Guardian Spear+,2h,Spear,15,25,375,Guardian Scout III,Found in some Modest Test of Strength shrines,NA,Ancient
+Guardian Spear++,2h,Spear,20,35,700,Guardian Scout IV,Found in some Major Test of Strength shrines,NA,Ancient
+Iron Sledgehammer,2h,Hammer,12,40,480,Eldin Canyon Akkala Highlands Tanagar Canyon Course,,NA,Other
+Knight's Claymore,2h,Sword,38,30,1140,Gerudo Desert Tabantha Frontier,,NA,Hylian
+Knight's Halberd,2h,Spear,13,40,520,Tabantha Frontier Gerudo Desert,,NA,Hylian
+Korok Leaf,2h,Leaf,1,25,25,Hyrule Field West Necluda,,NA,Other
+Lightscale Trident,2h,Spear,22,70,1540,Vah Ruta (Dungeon),"Champion Weapon, repairable.",NA,Other
+Lizal Spear,2h,Spear,7,18,126,Lanayru Wetlands East Necluda,,NA,Enemy
+Lynel Crusher,2h,Crusher,36,20,720,Lynel,,NA,Enemy
+Lynel Spear,2h,Spear,14,25,350,Lynel,,NA,Enemy
+Mighty Lynel Crusher,2h,Crusher,54,25,1350,Blue-Maned Lynel,,NA,Enemy
+Mighty Lynel Spear,2h,Spear,20,35,700,Blue-Maned Lynel,,NA,Enemy
+Moblin Arm,2h,Arm,15,5,75,Stalmoblin,,NA,Enemy
+Moblin Club,2h,Club,9,12,108,Gerudo Highlands Faron Grasslands,,NA,Enemy
+Moblin Spear,2h,Spear,4,15,60,Faron Grasslands Gerudo Highlands,,NA,Enemy
+Royal Claymore,2h,Sword,52,40,2080,Gerudo Desert Tabantha Frontier Hyrule Castle,,NA,Royal
+Royal Guard's Claymore,2h,Sword,72,15,1080,Hyrule Castle,,NA,Royal
+Royal Guard's Spear,2h,Spear,32,15,480,Hyrule Castle,,NA,Royal
+Royal Halberd,2h,Spear,26,50,1300,Gerudo Highlands Tabantha Frontier,,NA,Royal
+Rusty Claymore,2h,Sword,12,10,120,Hyrule Field Eldin Canyon Hyrule Castle,,NA,Other
+Rusty Halberd,2h,Spear,5,15,75,Hyrule Field Great Hyrule Forest,,NA,Other
+Savage Lynel Crusher,2h,Crusher,78,35,2730,White Maned Lynels Silver Lynels,,NA,Enemy
+Savage Lynel Spear,2h,Spear,30,45,1350,White Maned Lynels Silver Lynels,,NA,Enemy
+Serpentine Spear,2h,Spear,12,35,420,Hyrule Field East Necluda,,NA,Other
+Silver Longsword,2h,Sword,22,30,660,Lanayru Great Spring Lanayru Wetlands,,NA,Other
+Silverscale Spear,2h,Spear,12,40,480,Akkala Highlands Lanayru Great Spring,,NA,Other
+Soldier's Claymore,2h,Sword,20,25,500,Hyrule Field Faron Grasslands,,NA,Hylian
+Soldier's Spear,2h,Spear,7,35,245,Hyrule Field Faron Grasslands,,NA,Hylian
+Spiked Boko Bat,2h,Club,18,12,216,Faron Grasslands East Necluda,,NA,Enemy
+Spiked Boko Spear,2h,Spear,6,15,90,Faron Grasslands East Necluda,,NA,Enemy
+Spiked Moblin Club,2h,Club,27,18,486,Hyrule Field Akkala Highlands,,NA,Enemy
+Spiked Moblin Spear,2h,Spear,9,20,180,Gerudo Highlands Akkala Highlands,,NA,Enemy
+Stone Smasher,2h,Sword,42,40,1680,Hyrule Field Eldin Canyon,,NA,Other
+Sword of the Six Sages,2h,Sword,48,NA,2400,amiibo,Ganondorf Smash Amiibo,NA,Other
+Throwing Spear,2h,Spear,6,20,120,Hyrule Field West Necluda,,NA,Other
+Thunderspear,2h,Spear,22,50,1100,Coliseum Ruins Hyrule Ridge,,NA,Elemental
+Traveler's Claymore,2h,Sword,10,20,200,Hyrule Field West Necluda,,NA,Hylian
+Traveler's Spear,2h,Spear,3,30,90,Hyrule Field West Necluda,,NA,Hylian
+Windcleaver,2h,Sword,40,25,1000,Yiga Blademaster,,NA,Enemy
+Woodcutter's Axe,2h,Axe,3,47,141,Stables,,NA,Other
+Wooden Mop,2h,Spear,5,8,40,Hyrule Field East Necluda,,NA,Other
+Zora Spear,2h,Spear,9,40,360,Lanayru Great Spring Lake Hylia,,NA,Tribe
+Ancient Bow,2h,Bow,44,120,5280,Akkala Ancient Tech Lab,,50,Ancient
+Boko Bow,2h,Bow,4,16,64,Hyrule FieldWest Necluda,,20,Enemy
+Bow of Light,2h,Bow,100,100,10000,Boss,Only available during the last fight of the game.,500,Other
+Dragon Bone Boko Bow,2h,Bow,24,30,720,Hyrule FieldHyrule Ridge,,20,Enemy
+Duplex Bow,2h,Bow,NA,18,504,Yiga Clan Hideout,,40,Enemy
+Falcon Bow,2h,Bow,20,50,1000,Tabantha FrontierHebra Mountains,,40,Other
+Forest Dweller's Bow,2h,Bow,NA,35,1575,Tabantha FrontierHyrule Ridge,,20,Other
+Golden Bow,2h,Bow,14,60,840,Gerudo Town BarracksGerudo HighlandsGerudo Desert,Offers Zoom when aiming.,40,Other
+Great Eagle Bow,2h,Bow,NA,60,5040,Vah Medoh (Dungeon),"Champion Weapon, repairable.",40,Other
+Knight's Bow,2h,Bow,26,48,1248,Gerudo DesertTabantha Frontier,,20,Hylian
+Lizal Bow,2h,Bow,14,25,350,Lanayru Great SpringLanayru Wetlands,,20,Enemy
+Lynel Bow,2h,Bow,NA,30,900,Lynel,,20,Enemy
+Mighty Lynel Bow,2h,Bow,NA,35,2100,Blue-Maned Lynel,,20,Enemy
+Phrenic Bow,2h,Bow,10,45,450,West NecludaEast Necluda,Offers Zoom when aiming.,40,Other
+Royal Bow,2h,Bow,38,60,2280,Tabantha FrontierHebra Mountains,,20,Royal
+Royal Guard's Bow,2h,Bow,50,20,1000,Hyrule Castle,,30,Royal
+Savage Lynel Bow,2h,Bow,NA,45,7200,white Maned LynelsSilver Lynels,some are 32x3 =4320 some are 32x5 = 7200,20,Enemy
+Silver Bow,2h,Bow,15,40,600,Lanayru Great SpringAkkala Highlands,,20,Other
+Soldier's Bow,2h,Bow,14,36,504,Hyrule FieldFaron Grasslands,,20,Hylian
+Spiked Boko Bow,2h,Bow,12,20,240,Faron GrasslandsEast Necluda,,20,Enemy
+Steel Lizal Bow,2h,Bow,36,50,1800,Hebra MountainsAkkala Highlands,,20,Enemy
+Strengthened Lizal Bow,2h,Bow,25,35,875,Tabantha FrontierGerudo Desert,,20,Enemy
+Swallow Bow,2h,Bow,9,30,270,Tabantha FrontierHebra Mountains,,40,Other
+Traveler's Bow,2h,Bow,5,22,110,Hyrule FieldWest Necluda,,20,Hylian
+Twilight Bow,2h,Bow,30,100,3000,amiibo,Smash Zelda Amiibo,8000,Other
+Wooden Bow,2h,Bow,4,20,80,Hyrule FieldWest Necluda,,20,Other
